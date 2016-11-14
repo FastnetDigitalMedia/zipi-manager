@@ -2,3 +2,7 @@
 /common/auth/.settings
 /common/auth/target
 /common/auth/.classpath
+/common/config/.project
+/common/config/.settings
+/common/config/target
+/common/config/.classpath
