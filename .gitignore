@@ -6,3 +6,15 @@
 /common/config/.settings
 /common/config/target
 /common/config/.classpath
+/common/logging/core/.classpath
+/common/logging/core/.settings
+/common/logging/core/target
+/common/logging/log4j2/.project
+/common/logging/log4j2/.settings
+/common/logging/log4j2/target
+/common/logging/log4j2/.classpath
+/common/logging/slf4j/.project
+/common/logging/slf4j/.settings
+/common/logging/slf4j/target
+/common/logging/slf4j/.classpath
+/common/logging/core/.project
