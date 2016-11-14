@@ -21,3 +21,7 @@
 /common/net/.settings
 /common/net/.classpath
 /common/net/.project
+/common/plugin/.project
+/common/plugin/.settings
+/common/plugin/target
+/common/plugin/.classpath
