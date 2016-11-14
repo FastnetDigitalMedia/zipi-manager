@@ -18,3 +18,6 @@
 /common/logging/slf4j/target
 /common/logging/slf4j/.classpath
 /common/logging/core/.project
+/common/net/.settings
+/common/net/.classpath
+/common/net/.project
