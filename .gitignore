@@ -29,3 +29,7 @@
 /common/servlet/.settings
 /common/servlet/target
 /common/servlet/.classpath
+/common/util/.project
+/common/util/.settings
+/common/util/target
+/common/util/.classpath
