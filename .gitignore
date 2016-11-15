@@ -25,3 +25,7 @@
 /common/plugin/.settings
 /common/plugin/target
 /common/plugin/.classpath
+/common/servlet/.project
+/common/servlet/.settings
+/common/servlet/target
+/common/servlet/.classpath
