@@ -33,3 +33,7 @@
 /common/util/.settings
 /common/util/target
 /common/util/.classpath
+/distro/data/.settings
+/distro/data/target
+/distro/data/.classpath
+/distro/data/.project
